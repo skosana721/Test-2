@@ -18,4 +18,3 @@ let results = x.reduce((acc, curr) => {
   acc *= curr;
   return acc;
 });
-console.log(results);
